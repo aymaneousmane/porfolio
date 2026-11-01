@@ -45,34 +45,6 @@ Face à la difficulté croissante de rechercher efficacement dans des archives u
 
 ---
 
-## 🏗️ Architecture du projet
-
-```text
-ARC-Memoires/
-│
-├── index.html
-├── assets/
-│   ├── css/
-│   ├── js/
-│   └── images/
-│
-├── data/
-│
-└── README.md
-```
-
----
-
-## 🛠️ Technologies utilisées
-
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap (si utilisé)
-- JSON (gestion des données)
-
----
-
 ## 🎓 Cas d'utilisation
 
 Cette plateforme peut être utilisée par :
