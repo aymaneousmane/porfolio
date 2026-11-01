@@ -1,4 +1,4 @@
-# Portfolio — Projets universitaires
+# Portfolio - Projets universitaires
 
 Ce dépôt rassemble une sélection de travaux universitaires réalisés en mathématiques appliquées, statistiques, analyse numérique, informatique scientifique et génie logiciel.
 
