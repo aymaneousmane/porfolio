@@ -70,4 +70,4 @@ Les dépendances peuvent varier d'un dossier à l'autre. Les notebooks et rappor
 
 ## Auteur
 
-**Aymen Aousmane** — [github.com/aymaneousmane/porfolio](https://github.com/aymaneousmane/porfolio)
+**Aymane Ousmane** — [github.com/aymaneousmane/porfolio](https://github.com/aymaneousmane/porfolio)
