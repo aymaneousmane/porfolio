@@ -1,0 +1,7 @@
+Indications sur le contenu du dossier 
+
+1- Dossier "presentation " : ce dossier contient un fichier "presentation.html" qui est notre PowerPoint fait avec reveal.js
+
+2- Fichier " Groupe 6 _ Exposé _ Analyse et bases de données.pdf " : fichier pdf détaillé de notre présentation 
+
+3- Dossier " cas pratique " : ce dossier contient le code de notre cas pratique ("code_pratique.ipynb") et la base de données associée ("sales_sale.csv")
